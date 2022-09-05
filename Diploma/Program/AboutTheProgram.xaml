@@ -1,0 +1,27 @@
+﻿<Window x:Class="VedomostPropuskovPGEK.AboutTheProgram"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VedomostPropuskovPGEK"
+        mc:Ignorable="d"
+        Title="О программе..." Height="612.037" Width="867.637" WindowStyle="ToolWindow" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="69*"/>
+            <RowDefinition Height="208*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="62*"/>
+        </Grid.ColumnDefinitions>
+        <Image Source="Image\Лого.png"  Focusable="False" Grid.Column="0" Grid.Row="0" Margin="10,10,0,0" HorizontalAlignment="Left" Width="500" Height="131" VerticalAlignment="Top" Grid.RowSpan="2"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" FontSize="18" FontWeight="Bold" Text="Curator" Width="74" Margin="27,0,0,0" Grid.Row="1" Height="27" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" FontSize="18" FontStyle="Italic" Width="825" Margin="27,152,0,0" Grid.Row="1" Height="163" VerticalAlignment="Top"><Run Text="Программное средство представляет собой подсистему куратора учебной группы функционирующее в составе проекта «Единый колледж». "/><LineBreak/><Run Text="Подсистема предназначена для автоматизации процессов учёта пропусков учебных занятий учащимися учебной группы и формирования соответствующей отчетной документации куратора о пропусках учебных занятий"/><Run Text=","/><Run Text=" а так же "/><Run FontSize="18.6666666666667" FontFamily="Times New Roman" Text="помогать формировать документаци(Справка о посещении семьи учащегося, СПХ учащегося, Характеристика учащегося), Формировать СПХ группы и вести учет личных дел учащихся куратору учебных групп "/><Run Text="."/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" FontSize="18" Text="Жерносек Иван, учащийся группы П41. Кобяк Григорий, учащийся группы П41." Width="332" Margin="27,93,0,0" Grid.Row="1" Height="54" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" FontSize="18"  FontWeight="Bold" Text="Руководитель проекта:" Width="219" Margin="27,330,0,0" Grid.Row="1" Height="27" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" FontSize="18" FontWeight="Bold" Text="Разработчики:" Width="125" Margin="27,67,0,0" Grid.Row="1" Height="26" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" FontSize="16" Text="Версия: 01.1.0.0" Width="332" Margin="27,27,0,0" Grid.Row="1" Height="67" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" FontSize="18" Text="Федорчук Ирина Константиновна, преподаватель." Width="429" Margin="27,357,0,0" Grid.Row="1" Height="38" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" FontSize="16" Text="УО «Полоцкий государственный экономический колледж», 2021." Width="483" Margin="27,0,0,10" Grid.Row="1" Height="29" VerticalAlignment="Bottom"/>
+    </Grid>
+</Window>

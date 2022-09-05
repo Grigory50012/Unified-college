@@ -1,0 +1,126 @@
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\Curator.exe.config
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\Curator.exe
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\Curator.pdb
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\Dapper.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\Dapper.xml
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.csprojAssemblyReference.cache
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\Authorization.g.cs
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\Gruppa.g.cs
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\MainWindow.g.cs
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\App.g.cs
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\Curator_MarkupCompile.cache
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\Curator_MarkupCompile.lref
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\App.baml
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\Authorization.baml
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\Gruppa.baml
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\MainWindow.baml
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\Curator.g.resources
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.Properties.Resources.resources
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.csproj.GenerateResource.cache
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.csproj.CoreCompileInputs.cache
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.csproj.CopyComplete
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\Curator.exe
+Z:\!Единый колледж\VedomostPropuskovPGEK\obj\Release\Curator.pdb
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.AvalonDock.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.Toolkit.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\System.Diagnostics.DiagnosticSource.dll
+Z:\!Единый колледж\VedomostPropuskovPGEK\bin\Release\System.Diagnostics.DiagnosticSource.xml
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Curator.exe.config
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Curator.exe
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Curator.pdb
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Dapper.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\System.Diagnostics.DiagnosticSource.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.AvalonDock.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.Toolkit.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Dapper.xml
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\System.Diagnostics.DiagnosticSource.xml
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Authorization.g.cs
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Gruppa.g.cs
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\MainWindow.g.cs
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\App.g.cs
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Curator_MarkupCompile.cache
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Curator_MarkupCompile.lref
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\App.baml
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Authorization.baml
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Gruppa.baml
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\MainWindow.baml
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Curator.g.resources
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.Properties.Resources.resources
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.csproj.GenerateResource.cache
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.csproj.CoreCompileInputs.cache
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.csproj.CopyComplete
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Curator.exe
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Curator.pdb
+W:\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.csprojAssemblyReference.cache
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Curator.exe.config
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Curator.exe
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Curator.pdb
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Dapper.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.AvalonDock.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Xceed.Wpf.Toolkit.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\Dapper.xml
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.csprojAssemblyReference.cache
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\AboutTheProgram.g.cs
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Authorization.g.cs
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Gruppa.g.cs
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\MainWindow.g.cs
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\App.g.cs
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Curator_MarkupCompile.cache
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Curator_MarkupCompile.lref
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\App.baml
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\AboutTheProgram.baml
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Authorization.baml
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Gruppa.baml
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\MainWindow.baml
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Curator.g.resources
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.Properties.Resources.resources
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.csproj.GenerateResource.cache
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.csproj.CoreCompileInputs.cache
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\VedomostPropuskovPGEK.csproj.CopyComplete
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Curator.exe
+\\server1\WORK\01 Структуры колледжа\УВЦ\Практиканты\Жерносек\VedomostPropuskovPGEK\obj\Release\Curator.pdb

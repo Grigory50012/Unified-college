@@ -1,0 +1,16 @@
+﻿<Window x:Class="VedomostPropuskovPGEK.Gruppa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VedomostPropuskovPGEK"
+        mc:Ignorable="d"
+        Title="Выбор группы" Height="250" Width="303.382" WindowStyle="ToolWindow" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <ComboBox x:Name="cbGruppa" DisplayMemberPath="Name" SelectedValuePath="cn_G" FontSize="16" SelectedIndex="0" Foreground="#329A93" Style="{StaticResource ObshchiyComboBoxStyle}" HorizontalAlignment="Left" Margin="55,99,0,0" VerticalAlignment="Top" Width="182" Height="33"/>
+        <TextBlock HorizontalAlignment="Left" FontSize="18" FontFamily="{StaticResource IBMPlexSansMedium}" Margin="46,30,0,0" TextWrapping="Wrap" Text="У вас несколько групп!" VerticalAlignment="Top" Foreground="#329A93" />
+        <TextBlock HorizontalAlignment="Left" FontSize="16" FontFamily="{StaticResource IBMPlexSansMedium}" Margin="75,65,0,0" TextWrapping="Wrap" Text="Выберите группу!" VerticalAlignment="Top" Foreground="#329A93" />
+        <Button x:Name="bGruppa" Content="Продолжить"  FontSize="16" FontFamily="{StaticResource IBMPlexSansMedium}" Foreground="#329A93" Style="{StaticResource ObshchiyButtonStyle}" HorizontalAlignment="Left" Margin="55,153,0,0" VerticalAlignment="Top" Width="182" Height="45" Click="bGruppa_Click"/>
+
+    </Grid>
+</Window>
